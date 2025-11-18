@@ -1,0 +1,10 @@
+
+
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-pinecone
+google-generativeai
+pinecone
+python-dotenv
